@@ -1,10 +1,12 @@
+import heroBackground from '../assets/images/hero_background_1777909996340.png';
+
 export const AboutSection = () => {
   return (
     <section className="bg-dark py-20 px-6">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-12 items-center">
         <div className="flex-1">
           <img 
-            src="/src/assets/images/hero_background_1777909996340.png" 
+            src={heroBackground} 
             alt="Office" 
             className="rounded-lg shadow-2xl"
           />
