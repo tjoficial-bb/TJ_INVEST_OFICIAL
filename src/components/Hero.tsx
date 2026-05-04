@@ -4,7 +4,7 @@ export const Hero = () => {
     <section className="relative h-screen flex items-center justify-center pt-16 lg:pt-20">
       <div className="absolute inset-0 z-0">
         <img 
-          src="/assets/images/hero_background_1777909996340.png" 
+          src="assets/images/hero_background_1777909996340.png" 
           alt="Luxury House" 
           className="w-full h-full object-cover"
         />

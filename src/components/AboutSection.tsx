@@ -4,7 +4,7 @@ export const AboutSection = () => {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row gap-12 items-center">
         <div className="flex-1">
           <img 
-            src="/assets/images/hero_background_1777909996340.png" 
+            src="assets/images/hero_background_1777909996340.png" 
             alt="Office" 
             className="rounded-lg shadow-2xl"
           />
