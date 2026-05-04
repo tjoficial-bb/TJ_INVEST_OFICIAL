@@ -1,12 +1,10 @@
 import { ArrowRight } from 'lucide-react';
-import heroBackground from '../assets/images/hero_background_1777909996340.png';
-
 export const Hero = () => {
   return (
     <section className="relative h-screen flex items-center justify-center pt-16 lg:pt-20">
       <div className="absolute inset-0 z-0">
         <img 
-          src={heroBackground} 
+          src="/assets/images/hero_background_1777909996340.png" 
           alt="Luxury House" 
           className="w-full h-full object-cover"
         />
